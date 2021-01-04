@@ -1,6 +1,6 @@
 # About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Simone, 34 years old, living on Rome suburbs, and i'm currently working at [Userbot.ai](https://userbot.ai) as Remote Lead Full-Stack Developer.
+Hi! I'm Simone, 35 years old, living on Rome suburbs, and i'm currently working at [Userbot.ai](https://userbot.ai) as Remote Lead Full-Stack Developer.
 
 I'm a self-motivated dev, which learn new stuff every day and constantly challenge himself aiming to be a better developer.
 
