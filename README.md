@@ -4,7 +4,7 @@ Hi! I'm Simone, 35 years old, living on Rome suburbs, and i'm currently working 
 
 I'm a self-motivated dev, which learn new stuff every day and constantly challenge himself aiming to be a better developer.
 
-Currently i'm put a lot of effort on Node.js, RESTful api, websocket, webhook and 3rd party api integrations (like Stripe, Twitter, Facebook and so on).
+Currently i'm put a lot of effort on React for the frontend, and Node.js + RESTful api + websocket + webhook and 3rd party api integrations for the backend (like Stripe, Twitter, Facebook and so on).
 
 I've experience working with big dev team (15+), small team (like web agency), and also as one-man-band.
 
