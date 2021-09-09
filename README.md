@@ -1,6 +1,6 @@
 # About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Simone, 35 years old, living on Rome suburbs, and i'm currently working at [Mazzocchi Brothers](https://www.mazzocchibrothers.com/) as Remote Software Engineer.
+Hi! I'm Simone, '85 class, living on Rome suburbs, and i'm currently working at [Mazzocchi Brothers](https://www.mazzocchibrothers.com/) as Remote Software Engineer.
 
 I'm a self-motivated dev, which learn new stuff every day and constantly challenge himself aiming to be a better developer.
 
