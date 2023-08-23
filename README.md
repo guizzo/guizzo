@@ -2,7 +2,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/italy_private/guizzo.svg)](https://user-badge.committers.top/italy_private/guizzo)
 
-Hi! I'm Simone, '85 class, living on Rome suburbs, and i'm currently working at [AlgoJob](https://algojob.it/) as Remote Software Engineer.
+Hi! I'm Simone, '85 class, living on Rome suburbs, and i'm currently working at [AlgoJob](https://algojob.it/) as Lead Software Engineer.
 
 I'm a self-motivated dev, which learn new stuff every day and constantly challenge himself aiming to be a better developer.
 
