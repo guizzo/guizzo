@@ -12,7 +12,7 @@ I've experience working with big dev team (15+), small team (like web agency), a
 
 I ❤️ Javascript and the whole ecosystem that revolves around it.
 
-Finally, i'm always opened to discuss about a new supercool opensource project 😀
+Finally, i'm always opened to discuss about a new supercool open source project 😀
 
 If you wanna hire me, drop me a message or ping me on socials.
 
