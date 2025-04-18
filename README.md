@@ -62,3 +62,8 @@ Enjoy 👋.
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+## 📈 Activities
+![guizzo's Stats](https://github-readme-stats.vercel.app/api?username=guizzo&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![guizzo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guizzo&theme=nightowl&hide_border=false)
+<!-- ![guizzo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guizzo&theme=nightowl&show_icons=true&hide_border=false&layout=compact) -->
