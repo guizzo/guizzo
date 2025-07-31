@@ -1,20 +1,20 @@
 # About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Simone, '85 class, living on Rome suburbs, and i'm currently working at [Skillvue](https://algojob.it/) as Lead Software Engineer.
+Hi, I’m Simone — class of '85, based in the suburbs of Rome. I’m currently working at [Skillvue](https://www.skillvue.ai/) as a Lead Software Engineer.
 
-I'm a self-motivated dev, which learn new stuff every day and constantly challenge himself aiming to be a better developer.
+I’m a self-motivated developer who learns something new every day and constantly challenges himself to become better.
 
-Currently i'm put a lot of effort on React for the frontend, and Node.js + RESTful api + websocket + webhook and 3rd party api integrations for the backend (like Stripe, Twitter, Facebook and so on).
+Lately, I’ve been focusing heavily on React for the frontend, and Node.js for the backend — building RESTful APIs, working with WebSockets, webhooks, and integrating with third-party APIs like Stripe, Twitter, and Facebook.
 
-I've experience working with big dev team (15+), small team (like web agency), and also as one-man-band.
+I have experience working in large development teams (15+ people), small web agencies, and even solo as a one-man band.
 
-I ❤️ Javascript and the whole ecosystem that revolves around it.
+I ❤️ JavaScript and the entire ecosystem around it.
 
-Finally, i'm always opened to discuss about a new supercool open source project 😀
+I’m always open to talking about new and exciting open source projects — feel free to reach out if you’re building something cool!
 
-If you wanna hire me, drop me a message or ping me on socials.
+If you’re looking to collaborate or want to hire me, drop me a message or ping me on social media.
 
-Enjoy 👋.
+Enjoy your day 👋
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
