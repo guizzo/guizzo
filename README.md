@@ -1,6 +1,6 @@
 # About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I’m Simone — class of '85, based in the suburbs of Rome. I’m currently working at [Skillvue](https://www.skillvue.ai/) as a Lead Software Engineer.
+Hi, I’m Simone — class of '85, based in the suburbs of Rome. I’m currently working at [Skillvue](https://www.skillvue.ai/) as a Solution Architect.
 
 I’m a self-motivated developer who learns something new every day and constantly challenges himself to become better.
 
